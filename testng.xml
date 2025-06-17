@@ -3,11 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="Annotations.HomePage"/>
-      <class name="Annotations.LoginPage"/>
-      <method>
-      <include name="Annotations.LoginPage"/>*<include></include>
-      </method>
+      <class name="grouptest.NewTestExam"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
