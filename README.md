@@ -1,15 +1,5 @@
-# TestNG Repository
+# TestNG Framework Implementation For Automation
 
-## 👨‍💻 Author
-
-**Arpit Choubey — SDET | QA | Automation Engineer**
-🔗 **LinkedIn** | **Medium**
-
-## ⭐ Support
-
-If this repository helps you, please **Star 🌟** it!
-
----
 
 ## Overview
 
@@ -122,9 +112,9 @@ TesTNG-/
 ├── pom.xml
 ├── testng.xml
 └── Atlestngsvr.xml
-```
 
----
+
+
 
 ## How to Run TestNG Tests
 
@@ -136,8 +126,21 @@ TesTNG-/
 
 ## Notes
 
-* This repository is helpful for beginners learning TestNG from basics to intermediate level.
+* This repository is helpful for beginners learning TestNG from the basics to the intermediate level.
 * You can extend this structure into a full Selenium automation framework.
+
+
+## 👨‍💻 Author
+
+**Arpit Choubey — SDET | QA | Automation Engineer**
+🔗 **LinkedIn** | **Medium**
+
+## ⭐ Support
+
+If this repository helps you, please **Star 🌟** it!
+
+
+
 
 ---
 
